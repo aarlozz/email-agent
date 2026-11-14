@@ -1,0 +1,13 @@
+# Secrets: NEVER commit these
+credentials.json
+token.json
+.env
+
+# Virtual environments
+myvenv/
+venv/
+.venv/
+
+# Python junk
+__pycache__/
+*.pyc
